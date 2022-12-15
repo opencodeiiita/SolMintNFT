@@ -1,6 +1,10 @@
 
 # SolMintNFT 
 
+<h1 align="center">
+    <img src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg" height="200" width="200" alt="sol-sym">
+</h1>
+
 SolMintNFT is a project under OpenCode'22, that will be building an NFT marketplace using the Solana blockchain. Here, we will mint collection of generative NFTs using tools like, Metaplex and Hashlips-art-engine, and NFTs using Rust.
 
 ## Tech Stacks
