@@ -10,12 +10,33 @@ SolMintNFT is a project under OpenCode'22, that will be building an NFT marketpl
 * Hashlips engine
 * Arweave
 
+## Setup on local machine
+
+### Setting up the environment-
+* Install the latest [Rust](https://rustup.rs) stable.
+* Install the latest [Solana-CLI](https://docs.solana.com/cli/install-solana-cli-tools)
+
+The normal cargo build is available for building programs against your host machine which can be used for unit testing:
+```
+$ cargo build
+```
+To build a specific program, such as SPL Token, for the Solana BPF target which can be deployed to the cluster:
+```
+$ cd <the program directory>
+$ cargo build-bpf
+```
+
 ## Claiming an issue 
 * If you want to claim any issue (task), just reply with any message on that issue thread which justifies that you want to work on this issue. Ex :- Claim, I want to work on this issue, etc. 
 * Issues will be given out on first come first serve basis. 
 * In case of no activity on an issue even after 2 days, the issue will be reassigned. If you have difficulty approaching an issue, feel free to ask on our [Discord](https://discord.gg/EhkMEZpbuU) channel.
 
 ## Guidelines 
+* Fork the repository to your github account.
+* Clone it to your local setup by using `git clone <repo link>`
+* Navigate to the respective folder in which the code need to be updated or added.
+* Do the necessary changes according to the issue assigned.
+* All set! Once you are confident in your work, push your code and create a pull request (PR) to the main branch of the upstream repository with proper descriptions/comments in the code explaining what you did and wait until we review it.
 * Single commit per pull request and name the commit as something meaningful.
 * Reference the issue numbers in the commit message if it resolves an open issue.
 * Strictly follow the template provided inside .github directory to make a PR.
