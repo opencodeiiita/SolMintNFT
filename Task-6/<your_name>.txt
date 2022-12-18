@@ -1,0 +1,6 @@
+Transaction details-
+
+Signature: " "
+Slot: " "
+Timestamp: " "
+Nonce: " "
