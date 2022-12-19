@@ -1,0 +1,6 @@
+Transaction details-
+
+Signature: SLeTJaDAAmjrXS1CUs2h5x8tHr1kURZd5PVZFq2fn5i74f1247LQzh2zEEcwXjgKrTUFxnyg7PuaDVcPZ7PXiih
+Slot: 182919392
+Timestamp: December 18, 2022 15:31:09 India Standard Time 
+Nonce: 1 
