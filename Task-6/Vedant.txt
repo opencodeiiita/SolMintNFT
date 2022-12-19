@@ -1,0 +1,6 @@
+Transaction details-
+
+Signature: "5jHWjmeomjK2XYviNWPMdju8tYjjfj6gTCr6a6TwNu13dn3vvpHh2MpGB2TEEHMJwevJ1PWw87jtXmoXWbyhuV39"
+Slot: "183136500"
+Timestamp: "December 19, 2022 09:45:22 +UTC"
+Nonce: "vNrTGeYdERR8AWQLQGR2ivrriQsBtj5DTM8aukwyqhL" // I was not able to find this in details of transaction so I have mentioned signer. 
