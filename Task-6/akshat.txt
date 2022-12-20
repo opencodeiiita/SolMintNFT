@@ -1,0 +1,6 @@
+Transaction details-
+
+Signature: "2weWe3HZfgabJcGfa8zxUwtgf53r3Z2Cett6bsod8vjTb3E2jQxzNgrFsbfZDKUetUEC9enjNpimuDUV7ZG6czSu"
+Slot: "183382584"
+Timestamp: "December 20, 2022 12:41:18 +UTC"
+Nonce:"4cBPaBzuXYXEKdqYLmL5KpgCPHN5Q7pgXrvxVq3h311X"
