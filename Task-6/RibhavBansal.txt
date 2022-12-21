@@ -1,0 +1,6 @@
+Transaction details-
+
+Signature: M8JhNiVNnQrxGibgbVw1DtAYaxpq7tmwmKp94ReKb88j6bBTCaKePddSvaUjvX3N1kZKNyr2uVh7WaXbZDnCeSe
+Slot: 183666422
+Timestamp: December 21, 2022 19:25:58 +UTC
+Nonce: 9BWEP4FzgNwKRWgaXjq4EQhncup4ZNtV8UeEZPnShm16
