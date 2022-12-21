@@ -1,0 +1,7 @@
+Transaction details-
+
+Signature: 5SFPWX2n3w3kD6iZcaeTwVo3VvXVfXpq4TkQ927dqYtJT7YAGcFZGqJaGMNLkdQAcYfQQnUHL7P1Uu51Uy7pZXon
+Slot: 183547160
+Timestamp: December 21, 2022 06:30:33 +UTC
+Nonce: EshdCBx9q36V3SiZfoxu7QC2EbXwg8GGH6CJNeHArJXS
+
