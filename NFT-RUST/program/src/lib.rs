@@ -20,6 +20,8 @@ use {
 entrypoint!(process_instruction);
 
 fn process_instruction(
+    program_id: &Pubkey,
+    accounts: &[AccountInfo],
     _instruction_data: &[u8],
 )  {
 
