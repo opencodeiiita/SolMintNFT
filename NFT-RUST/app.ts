@@ -17,7 +17,7 @@ import fs from 'mz/fs';
 import os from 'os';
 import path from 'path';
 import yaml from 'yaml';
-import {createKeypairFromFile} from './util'
+import {createKeypairFromFile} from './util';
 
 
 // Path to local Solana CLI config file.
@@ -31,8 +31,8 @@ const CONFIG_FILE_PATH = path.resolve(
 
 
 export async function main() {
-    let connection = new Connection("https://api.devnet.solana.com/", "confirmed");
-    
+    const connection = new Connection("https://api.devnet.solana.com/", "confirmed");
+
 }
 
 main().then(
