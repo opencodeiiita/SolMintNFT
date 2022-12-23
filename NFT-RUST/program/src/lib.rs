@@ -19,11 +19,75 @@ use {
 
 entrypoint!(process_instruction);
 
+
 fn process_instruction(
-    program_id: &Pubkey,
+    _program_id: &Pubkey,
     accounts: &[AccountInfo],
     _instruction_data: &[u8],
-)  {
+) -> ProgramResult {
+    let accounts_iter = &mut accounts.iter();
+    let mint = next_account_info(accounts_iter)?;
+    let token_account = next_account_info(accounts_iter)?;
+    let mint_authority = next_account_info(accounts_iter)?;
+    let rent = next_account_info(accounts_iter)?;
+    let system_program = next_account_info(accounts_iter)?;
+    let token_program = next_account_info(accounts_iter)?;
+    let associated_token_program = next_account_info(accounts_iter)?;
 
-    
+    invoke(
+        &system_instruction::create_account(
+            
+        ),
+        &[
+            mint.clone(),
+            mint_authority.clone(),
+            token_program.clone(),
+        ]
+    )?;
+
+    invoke(
+        &token_instruction::initialize_mint(
+            &token_program.key,
+            &mint.key,
+            &mint_authority.key,
+            Some(&mint_authority.key),
+            0,
+        )?,
+        &[
+            mint.clone(),
+            mint_authority.clone(),
+            token_program.clone(),
+            rent.clone(),
+        ]
+    )?;
+
+    invoke(
+        &token_account_instruction::create_associated_token_account(
+            &mint_authority.key,
+            &mint_authority.key,
+            &mint.key,
+            &token_program.key,
+        ),
+        &[
+            mint.clone(),
+            token_account.clone(),
+            mint_authority.clone(),
+            token_program.clone(),
+            associated_token_program.clone(),
+        ]
+    )?;
+
+    invoke(
+        &token_instruction::mint_to(
+            
+        )?,
+        &[
+            mint.clone(),
+            mint_authority.clone(),
+            token_account.clone(),
+            token_program.clone(),
+            rent.clone(),
+        ]
+    )?;
+
 }
