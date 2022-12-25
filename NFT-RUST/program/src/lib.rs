@@ -36,7 +36,11 @@ fn process_instruction(
 
     invoke(
         &system_instruction::create_account(
-            
+            &token_account.key,
+            &associated_token_program,
+            LAMPORTS_PER_SOL,
+            82,
+            &token_program.key,
         ),
         &[
             mint.clone(),
@@ -79,7 +83,12 @@ fn process_instruction(
 
     invoke(
         &token_instruction::mint_to(
-            
+            &token_program.key,
+            &mint.key,
+            &token_account.key,
+            &mint_authority.key,
+            &accounts_iter.key,
+            u64,
         )?,
         &[
             mint.clone(),
