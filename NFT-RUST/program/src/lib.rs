@@ -88,7 +88,7 @@ fn process_instruction(
             &token_account.key,
             &mint_authority.key,
             &[&mint_authority.key],
-            10,
+            1,
         )?,
         &[
             mint.clone(),
