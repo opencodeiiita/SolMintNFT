@@ -1,9 +1,9 @@
 use {
     solana_program::{
-        account_info::{next_account_info, AccountInfo}, 
-        entrypoint, 
-        entrypoint::ProgramResult, 
-        msg, 
+        account_info::{next_account_info, AccountInfo},
+        entrypoint,
+        entrypoint::ProgramResult,
+        msg,
         native_token::LAMPORTS_PER_SOL,
         program::invoke,
         pubkey::Pubkey,
@@ -36,7 +36,11 @@ fn process_instruction(
 
     invoke(
         &system_instruction::create_account(
-            
+            &mint_authority.key,
+            &mint.key,
+            LAMPORTS_PER_SOL,
+            82,
+            &token_program.key,
         ),
         &[
             mint.clone(),
@@ -79,7 +83,12 @@ fn process_instruction(
 
     invoke(
         &token_instruction::mint_to(
-            
+            &token_program.key,
+            &mint.key,
+            &token_account.key,
+            &mint_authority.key,
+            &[&mint_authority.key],
+            1,
         )?,
         &[
             mint.clone(),
