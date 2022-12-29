@@ -33,6 +33,21 @@ const CONFIG_FILE_PATH = path.resolve(
 export async function main() {
     const connection = new Connection("https://api.devnet.solana.com/", "confirmed");
 
+    console.log(`Successfully connected to Solana dev net.`);
+
+    const configYml = await fs.readFile(CONFIG_FILE_PATH, {encoding: 'utf8'});
+    const keypairPath = await yaml.parse(configYml).keypair_path;
+    const wallet = await createKeypairFromFile(keypairPath);
+    console.log(`Local account loaded successfully.`);
+
+    const programKeypair = await createKeypairFromFile(
+        path.join(
+            path.resolve(__dirname, './dist/program'), 
+            'mint-keypair.json'
+    ));
+    const programId = programKeypair.publicKey;
+
+    // create the variable here!
 }
 
 main().then(
