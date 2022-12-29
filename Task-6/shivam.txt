@@ -1,0 +1,6 @@
+Transaction details-
+
+Signature: "2b94bTLtuJJosXsH3YgJMbmj1MjvNrB29bHNfa44LgHBfmpgFVqSWHJJii9JW8YY7oAZJYhSiCcu5ArxoTkJseog"
+Slot: "185388976 "
+Timestamp: " December 29, 2022 20:50:35 India Standard Time"
+Nonce: "56tBtFwvBRrbnTgyBQViGQsreQA1PjoTVR4La54CQR5T"
