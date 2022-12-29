@@ -98,5 +98,6 @@ fn process_instruction(
             rent.clone(),
         ]
     )?;
+    Ok(())
 
 }
