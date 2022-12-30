@@ -48,6 +48,54 @@ export async function main() {
     const programId = programKeypair.publicKey;
 
     const mintKeyPair = Keypair.generate();
+    const tokenAddress = await getAssociatedTokenAddress(
+        mintKeyPair.publicKey,
+        wallet.publicKey
+      );
+
+      // Transact with our program
+
+      const instruction = new TransactionInstruction({
+        keys: [
+            // Mint account : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
+            {
+                // Add changes here !
+            },
+            // Token account : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
+            {
+                pubkey: tokenAddress,
+                isSigner: false,
+                isWritable: true,
+            },
+            // Mint Authority : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
+            {
+                pubkey: wallet.publicKey,
+                isSigner: true,
+                isWritable: false,
+            },
+            // Rent account : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
+            {
+                // Add changes here !
+            },
+            // System program : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
+            {
+                pubkey: SystemProgram.programId,
+                isSigner: false,
+                isWritable: false,
+            },
+            // Token program : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
+            {
+                // Add changes here !
+            },
+            // Associated token program : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
+            {
+                // Add changes here !
+            },
+        ],
+        programId: programId,
+        data: Buffer.alloc(0),
+    })
+    // Further code !
 }
 
 main().then(
