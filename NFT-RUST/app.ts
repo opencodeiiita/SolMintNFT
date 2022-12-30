@@ -47,7 +47,7 @@ export async function main() {
     ));
     const programId = programKeypair.publicKey;
 
-    const mintKeypair = Keypair.generate()
+    const mintKeyPair = Keypair.generate();
 }
 
 main().then(
