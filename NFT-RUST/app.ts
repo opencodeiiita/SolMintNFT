@@ -59,7 +59,9 @@ export async function main() {
         keys: [
             // Mint account : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
             {
-                // Add changes here !
+                pubkey: mintKeyPair.publicKey,
+                isSigner: true,
+                isWritable: true,
             },
             // Token account : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
             {
@@ -75,7 +77,9 @@ export async function main() {
             },
             // Rent account : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
             {
-                // Add changes here !
+                pubkey: SYSVAR_RENT_PUBKEY,
+                isSigner: false,
+                isWritable: false,
             },
             // System program : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
             {
@@ -85,11 +89,15 @@ export async function main() {
             },
             // Token program : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
             {
-                // Add changes here !
+                pubkey: TOKEN_PROGRAM_ID,
+                isSigner: false,
+                isWritable: false,
             },
             // Associated token program : all these are for variables (accounts) that are same as present in lib.rs at the starting of process_instruction fn
             {
-                // Add changes here !
+                pubkey: ASSOCIATED_TOKEN_PROGRAM_ID,
+                isSigner: false,
+                isWritable: false,
             },
         ],
         programId: programId,
