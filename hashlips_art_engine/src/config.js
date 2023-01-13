@@ -5,8 +5,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Solana
-const namePrefix = "";
-const description = "";
+const namePrefix = "Art of Eyes";
+const description = "NFTs diplaying various versions of eyes, built using stack of various layers of assets.";
 const baseUri = "ipfs://NewUriToReplace";
 
 
