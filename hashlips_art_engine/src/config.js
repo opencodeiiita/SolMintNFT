@@ -12,7 +12,7 @@ const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
   symbol: "",
-  seller_fee_basis_points: 1000,
+  seller_fee_basis_points: 1000, //Defines how much % you want from secondary market sales 1000 = 10%.
   external_url: "",
   creators: [
     // Add the creators and their respective shares over here.
