@@ -2,7 +2,7 @@ const basePath = process.cwd();
 const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 
-const network = NETWORK.eth;
+const network = NETWORK.sol;
 
 // General metadata for Solana
 const namePrefix = "Art of Eyes";
@@ -11,11 +11,19 @@ const baseUri = "ipfs://NewUriToReplace";
 
 
 const solanaMetadata = {
-  symbol: "",
-  seller_fee_basis_points: 1000, //Defines how much % you want from secondary market sales 1000 = 10%.
+  symbol: "AOE",
+  seller_fee_basis_points: 600, //Defines how much % you want from secondary market sales 1000 = 10%.
   external_url: "",
   creators: [
     // Add the creators and their respective shares over here.
+    {
+      address: "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+      share: 100,
+    },
+    {
+      address: "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+      share: 100,
+    },
   ],
 };
 
@@ -24,6 +32,31 @@ const solanaMetadata = {
 const layerConfigurations = [
 
   // Write the code for specifying the order of stacking of the various layers of the NFTs here.
+  {
+    growEditionSizeTo: 15,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Eyeball" },
+      { name: "Eye color" },
+      { name: "Iris" },
+      { name: "Shine" },
+      { name: "Bottom lid" },
+      { name: "Top lid" },
+    ],
+  },
+
+  {
+    growEditionSizeTo: 10,
+    layersOrder: [
+      { name: "Background" },
+      { name: "Eyeball" },
+      { name: "Eye color" },
+      { name: "Iris" },
+      { name: "Top lid" },
+      { name: "Bottom lid" },
+      { name: "Shine" },
+    ],
+  },
 
 ];
 
@@ -35,6 +68,8 @@ const format = {
 
   // Specify the height and width of the NFTs
   smoothing: false,
+  width: 600,
+  height: 600,
 };
 
 const gif = {
@@ -60,7 +95,7 @@ const text = {
 const pixelFormat = {
   // Mention the ratio of the pixels as given in the issue description.
   
-
+  ratio: 3 / 128,
   // The lower the number on the left, the more pixelated the image will be.
 };
 
