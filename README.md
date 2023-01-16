@@ -10,7 +10,7 @@ SolMintNFT is a project under OpenCode'22, that will be building an NFT marketpl
 ## Tech Stacks
 * Solana
 * Rust
-* Metaplex - Candy Machine CLI V2
+* Metaplex - Sugar Candy Machine CLI-V2
 * Hashlips engine
 * Arweave
 
