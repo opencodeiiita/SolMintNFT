@@ -18,11 +18,11 @@ const solanaMetadata = {
     // Add the creators and their respective shares over here.
     {
       address: "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-      share: 100,
+      share: 50,
     },
     {
       address: "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-      share: 100,
+      share: 50,
     },
   ],
 };
@@ -46,7 +46,7 @@ const layerConfigurations = [
   },
 
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 25,
     layersOrder: [
       { name: "Background" },
       { name: "Eyeball" },

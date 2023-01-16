@@ -13,15 +13,15 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Eye color",
-      "value": "Yellow"
+      "value": "Purple"
     },
     {
       "trait_type": "Iris",
-      "value": "Large"
+      "value": "Small"
     },
     {
       "trait_type": "Shine",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "High"
+      "value": "Low"
     },
     {
       "trait_type": "Top lid",
@@ -47,11 +47,11 @@
     "creators": [
       {
         "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-        "share": 100
+        "share": 50
       },
       {
         "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-        "share": 100
+        "share": 50
       }
     ]
   }

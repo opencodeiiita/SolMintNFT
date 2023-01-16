@@ -1,11 +1,11 @@
 {
-  "name": "Art of Eyes #3",
+  "name": "Art of Eyes #19",
   "symbol": "AOE",
   "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
   "seller_fee_basis_points": 600,
-  "image": "3.png",
+  "image": "19.png",
   "external_url": "",
-  "edition": 3,
+  "edition": 19,
   "attributes": [
     {
       "trait_type": "Background",
@@ -21,25 +21,25 @@
     },
     {
       "trait_type": "Iris",
-      "value": "Small"
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
     },
     {
       "trait_type": "Shine",
       "value": "Shapes"
-    },
-    {
-      "trait_type": "Bottom lid",
-      "value": "Middle"
-    },
-    {
-      "trait_type": "Top lid",
-      "value": "Middle"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "3.png",
+        "uri": "19.png",
         "type": "image/png"
       }
     ],

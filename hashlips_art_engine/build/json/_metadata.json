@@ -22,7 +22,7 @@
       },
       {
         "trait_type": "Iris",
-        "value": "Medium"
+        "value": "Small"
       },
       {
         "trait_type": "Shine",
@@ -34,7 +34,7 @@
       },
       {
         "trait_type": "Top lid",
-        "value": "High"
+        "value": "Middle"
       }
     ],
     "properties": {
@@ -48,11 +48,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -72,15 +72,15 @@
       },
       {
         "trait_type": "Eyeball",
-        "value": "Red"
+        "value": "White"
       },
       {
         "trait_type": "Eye color",
-        "value": "Yellow"
+        "value": "Purple"
       },
       {
         "trait_type": "Iris",
-        "value": "Small"
+        "value": "Medium"
       },
       {
         "trait_type": "Shine",
@@ -88,11 +88,11 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
+        "value": "Middle"
       },
       {
         "trait_type": "Top lid",
-        "value": "High"
+        "value": "Low"
       }
     ],
     "properties": {
@@ -106,11 +106,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -146,11 +146,11 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "High"
+        "value": "Middle"
       },
       {
         "trait_type": "Top lid",
-        "value": "High"
+        "value": "Low"
       }
     ],
     "properties": {
@@ -164,11 +164,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -204,11 +204,11 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Low"
+        "value": "Middle"
       },
       {
         "trait_type": "Top lid",
-        "value": "Low"
+        "value": "Middle"
       }
     ],
     "properties": {
@@ -222,11 +222,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -250,7 +250,7 @@
       },
       {
         "trait_type": "Eye color",
-        "value": "Purple"
+        "value": "Yellow"
       },
       {
         "trait_type": "Iris",
@@ -266,7 +266,7 @@
       },
       {
         "trait_type": "Top lid",
-        "value": "High"
+        "value": "Middle"
       }
     ],
     "properties": {
@@ -280,11 +280,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -304,7 +304,7 @@
       },
       {
         "trait_type": "Eyeball",
-        "value": "Red"
+        "value": "White"
       },
       {
         "trait_type": "Eye color",
@@ -338,11 +338,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -366,7 +366,7 @@
       },
       {
         "trait_type": "Eye color",
-        "value": "Yellow"
+        "value": "Purple"
       },
       {
         "trait_type": "Iris",
@@ -378,11 +378,11 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "Middle"
+        "value": "Low"
       },
       {
         "trait_type": "Top lid",
-        "value": "Middle"
+        "value": "High"
       }
     ],
     "properties": {
@@ -396,11 +396,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -424,7 +424,7 @@
       },
       {
         "trait_type": "Eye color",
-        "value": "Purple"
+        "value": "Yellow"
       },
       {
         "trait_type": "Iris",
@@ -454,11 +454,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -478,15 +478,15 @@
       },
       {
         "trait_type": "Eyeball",
-        "value": "White"
+        "value": "Red"
       },
       {
         "trait_type": "Eye color",
-        "value": "Yellow"
+        "value": "Purple"
       },
       {
         "trait_type": "Iris",
-        "value": "Large"
+        "value": "Small"
       },
       {
         "trait_type": "Shine",
@@ -494,7 +494,7 @@
       },
       {
         "trait_type": "Bottom lid",
-        "value": "High"
+        "value": "Low"
       },
       {
         "trait_type": "Top lid",
@@ -512,11 +512,11 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
@@ -529,178 +529,6 @@
     "image": "9.png",
     "external_url": "",
     "edition": 9,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "White"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "High"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Low"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "9.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
-        },
-        {
-          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
-        }
-      ]
-    }
-  },
-  {
-    "name": "Art of Eyes #10",
-    "symbol": "AOE",
-    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
-    "seller_fee_basis_points": 600,
-    "image": "10.png",
-    "external_url": "",
-    "edition": 10,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "Red"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Purple"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Large"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Middle"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Low"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "10.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
-        },
-        {
-          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
-        }
-      ]
-    }
-  },
-  {
-    "name": "Art of Eyes #undefined",
-    "symbol": "AOE",
-    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
-    "seller_fee_basis_points": 600,
-    "image": "undefined.png",
-    "external_url": "",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Eyeball",
-        "value": "White"
-      },
-      {
-        "trait_type": "Eye color",
-        "value": "Cyan"
-      },
-      {
-        "trait_type": "Iris",
-        "value": "Medium"
-      },
-      {
-        "trait_type": "Shine",
-        "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Low"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "undefined.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
-        },
-        {
-          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
-        }
-      ]
-    }
-  },
-  {
-    "name": "Art of Eyes #undefined",
-    "symbol": "AOE",
-    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
-    "seller_fee_basis_points": 600,
-    "image": "undefined.png",
-    "external_url": "",
     "attributes": [
       {
         "trait_type": "Background",
@@ -734,7 +562,7 @@
     "properties": {
       "files": [
         {
-          "uri": "undefined.png",
+          "uri": "9.png",
           "type": "image/png"
         }
       ],
@@ -742,22 +570,23 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
   },
   {
-    "name": "Art of Eyes #undefined",
+    "name": "Art of Eyes #10",
     "symbol": "AOE",
     "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
     "seller_fee_basis_points": 600,
-    "image": "undefined.png",
+    "image": "10.png",
     "external_url": "",
+    "edition": 10,
     "attributes": [
       {
         "trait_type": "Background",
@@ -766,6 +595,64 @@
       {
         "trait_type": "Eyeball",
         "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "10.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #11",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "11.png",
+    "external_url": "",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
       },
       {
         "trait_type": "Eye color",
@@ -785,13 +672,13 @@
       },
       {
         "trait_type": "Top lid",
-        "value": "Middle"
+        "value": "Low"
       }
     ],
     "properties": {
       "files": [
         {
-          "uri": "undefined.png",
+          "uri": "11.png",
           "type": "image/png"
         }
       ],
@@ -799,22 +686,545 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
         }
       ]
     }
   },
   {
-    "name": "Art of Eyes #undefined",
+    "name": "Art of Eyes #12",
     "symbol": "AOE",
     "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
     "seller_fee_basis_points": 600,
-    "image": "undefined.png",
+    "image": "12.png",
     "external_url": "",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "12.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #13",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "13.png",
+    "external_url": "",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "13.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #14",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "14.png",
+    "external_url": "",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "14.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #15",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "15.png",
+    "external_url": "",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "15.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #16",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "16.png",
+    "external_url": "",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "16.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #17",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "17.png",
+    "external_url": "",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "17.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #18",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "18.png",
+    "external_url": "",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "18.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #19",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "19.png",
+    "external_url": "",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "19.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #20",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "20.png",
+    "external_url": "",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "20.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #21",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "21.png",
+    "external_url": "",
+    "edition": 21,
     "attributes": [
       {
         "trait_type": "Background",
@@ -830,25 +1240,25 @@
       },
       {
         "trait_type": "Iris",
-        "value": "Small"
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
       },
       {
         "trait_type": "Shine",
         "value": "Shapes"
-      },
-      {
-        "trait_type": "Bottom lid",
-        "value": "Low"
-      },
-      {
-        "trait_type": "Top lid",
-        "value": "Middle"
       }
     ],
     "properties": {
       "files": [
         {
-          "uri": "undefined.png",
+          "uri": "21.png",
           "type": "image/png"
         }
       ],
@@ -856,11 +1266,185 @@
       "creators": [
         {
           "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
-          "share": 100
+          "share": 50
         },
         {
           "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
-          "share": 100
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #22",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "22.png",
+    "external_url": "",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "22.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #23",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "23.png",
+    "external_url": "",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "23.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
+        }
+      ]
+    }
+  },
+  {
+    "name": "Art of Eyes #24",
+    "symbol": "AOE",
+    "description": "NFTs diplaying various versions of eyes, built using stack of various layers of assets.",
+    "seller_fee_basis_points": 600,
+    "image": "24.png",
+    "external_url": "",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "24.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "hd8pVhXSRx3K5TEKus9PP3CkQ95E9UUcDmc6H9S7eFH",
+          "share": 50
+        },
+        {
+          "address": "Dq9SmVjaRpH5Bec5n8KoZALcVgbqQAJ6SnGw6SUMuQCZ",
+          "share": 50
         }
       ]
     }
